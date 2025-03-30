@@ -1,6 +1,6 @@
 # Educational System Data Analysis 
 
-![Company Logo](ed.jpg)
+![](ed.jpg)
 
 The company is undertaking an international expansion project. Our mission is to conduct an exploratory data analysis to determine if the World Bank's education data can inform this expansion initiative. The data is provided by the World Bank.​
 
